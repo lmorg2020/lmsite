@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: Luminous Mist
+url: "https://luminous-mist.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Justice Template
-  links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+description:
 
 # -----
 # Build
@@ -84,20 +76,6 @@ exclude:
 # CloudCannon
 
 call_to_actions:
-  - Contact
-  - Blog
-  - Map
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
 
 _comments:
   large_header: Toggles the size of the top banner.
